@@ -2,7 +2,7 @@
 
 ## Followed Coding Addict from Youtube
 
-## Understanding the concepts of props and Hooks but this simple project
+## Understanding the concepts of props and Hooks by this simple react project
 
 ## To Start the App
 
